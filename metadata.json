@@ -1,0 +1,5 @@
+{
+  "name": "Medical Quiz App",
+  "description": "A web application for medical professionals to test their knowledge with multiple-choice questions from various sources. The app features randomized questions, answer tracking, and a detailed review screen.",
+  "requestFramePermissions": []
+}
