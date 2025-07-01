@@ -183,7 +183,7 @@ export const ALL_QUESTIONS: Question[] = [
             { text: "A precordial thump is always indicated." },
             { text: "Defibrillation is the treatment of choice in the pulseless patient." }
         ],
-        correctAnswer: "This rhythm can be associated with a spontaneous circulation."
+        correctAnswer: "Defibrillation is the treatment of choice in the pulseless patient."
     },
     {
         id: 16,
@@ -258,7 +258,7 @@ export const ALL_QUESTIONS: Question[] = [
             { text: "The ventricular rate is greater than 200 min-1" },
             { text: "The QRS complex is normal." }
         ],
-        correctAnswer: "The rhythm is irregular"
+        correctAnswer: "The ventricular rate is greater than 200 min-1"
     },
     {
         id: 22,
